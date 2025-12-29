@@ -12,5 +12,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/Store/'  // <-- yeh tumhare repo ka naam
+  base: '/Store/'  // ye repo name ka folder
 })
